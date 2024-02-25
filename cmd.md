@@ -29,3 +29,13 @@ git init
 ```sh
 rm <filename>
 ```
+```sh
+git add <filename>
+```
+git commit -m "Message"
+
+git log
+
+git log --oneline
+
+git checkut
