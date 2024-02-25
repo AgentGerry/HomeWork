@@ -24,3 +24,8 @@ ls
 ```
 git init
 ```
+
+удаление файла:
+```sh
+rm <filename>
+```
